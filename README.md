@@ -24,4 +24,6 @@ An interactive Power BI dashboard that analyzes pizza sales to uncover ordering 
 Power BI
 
 ## Screenshots
-(add dashboard images here)
+<img width="1114" height="704" alt="Screenshot 2026-04-27 175343" src="https://github.com/user-attachments/assets/b75307d2-9778-47ff-a772-775f0d36e129" />
+<img width="1149" height="651" alt="Screenshot 2026-04-27 175321" src="https://github.com/user-attachments/assets/ab8e02ab-5536-44cc-9b8e-300abce8b7d8" />
+
